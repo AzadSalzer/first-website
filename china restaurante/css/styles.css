@@ -29,8 +29,12 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   line-height: .75;
+  text-decoration-line: none; 
+  
+  
 }
 .navbar-brand a: hover, .navbar-brand a:focus {
+  text-decoration: none;
   text-orientation: none;
 }
 .navbar-brand p {/*Kosher Certificat*/
